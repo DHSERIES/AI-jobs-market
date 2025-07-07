@@ -7,6 +7,10 @@ An interactive dashboard for exploring and analyzing the AI job market using Str
 - Filter jobs by date, experience, education, remote ratio, salary, location, and required skills
 - Interactive charts and time series trends
 
+
+## Data Source
+This dashboard uses data from [Global AI Job Market Trend 2025 on Kaggle](https://www.kaggle.com/datasets/pratyushpuri/global-ai-job-market-trend-2025/data).
+
 ## Getting Started
 
 ### 1. Install Requirements
